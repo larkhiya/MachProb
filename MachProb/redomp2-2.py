@@ -1,5 +1,6 @@
 import re 
 
+#woah does this work na?
 
 class tee_OfN_Analyze:
     dataTypes = {"int", "float", "double", "char", "bool", "void"}
